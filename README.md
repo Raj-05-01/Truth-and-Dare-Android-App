@@ -11,7 +11,7 @@
    2. Install the apk file in android mobile phone and you can play the game.
   
 # Video Tutorial
-    
+   https://drive.google.com/file/d/1Ajbg2mxoFHpOCC4YDQeOJAyefmuN_kh-/view?usp=drive_link 
 # Technologies
  - JAVA
  - XML
